@@ -15,7 +15,7 @@ public class UserInputDemo {
 		double d = sc.nextDouble();
 		
 		System.out.println("The value is x :"+x);
-		System.out.println("The value is y : "+y);
+		System.out.println("The value is y : "+y); 
 		System.out.println("The value is z :"+z);
 		System.out.println("The value is name :"+name);
 		
