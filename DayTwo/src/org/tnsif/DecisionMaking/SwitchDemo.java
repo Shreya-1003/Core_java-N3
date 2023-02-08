@@ -23,6 +23,6 @@ public class SwitchDemo {
 		default:
 			System.out.println("Invalid input");
 		}
-	},
+	}
 	
 }
