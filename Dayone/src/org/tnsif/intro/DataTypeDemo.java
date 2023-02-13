@@ -6,6 +6,7 @@ public class DataTypeDemo {
 		byte a = 127; //byte -> 1byte
 		
 //		Integer->4byte
+		
 		int b = 120;
 		long b1 = 87747646467747l;
 		float c = 12/5;
