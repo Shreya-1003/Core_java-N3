@@ -7,6 +7,7 @@ public class ArrayDemo {
 		Scanner sc= new Scanner(System.in);
 		System.out.println("enter the number of elements" + "in the array");
 		int n = sc.nextInt();
+		
 		//array declaration
 		System.out.println("enter number of elements");
 		int arr[] = new int[n];
