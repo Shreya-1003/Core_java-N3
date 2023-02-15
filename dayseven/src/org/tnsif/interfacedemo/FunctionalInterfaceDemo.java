@@ -1,6 +1,7 @@
 package org.tnsif.interfacedemo;
 
 //program to demonstrate on functional interface
+//contains only one abstract method
 //driver class
 public class FunctionalInterfaceDemo {
 
